@@ -37,7 +37,8 @@ A high-performance, real-time cryptocurrency tracking platform. It provides user
 3.  **Environment Variables:** Create a `.env` file with your Supabase credentials:
     ```
     VITE_SUPABASE_URL=your_supabase_url
-    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+    VITE_SUPABASE_PROJECT_ID=your_supabase_project_id
+    VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
     ```
 
 4.  **Run Development Server:**
