@@ -1,4 +1,3 @@
-age features and added icons to the tools section for a better visual appeal.
 
 🚀 Crypto Analytics Dashboard
 Crypto Analytics Dashboard is a high-performance, real-time cryptocurrency tracking platform. It provides users with live market data, advanced coin analytics, and personalized tracking tools. With secure Google OAuth integration via Supabase, users can maintain their own asset watchlists across different devices.
